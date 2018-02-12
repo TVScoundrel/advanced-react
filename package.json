@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Advanced React Course",
   "main": "lib/server.js",
+  "repository": "TVScoundrel/advanced-react",
   "author": "Tom Van Schoor",
   "license": "MIT",
   "scripts": {
@@ -21,7 +22,8 @@
     "babel-eslint": "^8.2.1",
     "eslint": "^4.17.0",
     "eslint-plugin-react": "^7.6.1",
-    "jest": "^22.2.1"
+    "jest": "^22.2.1",
+    "react-test-renderer": "^16.2.0"
   },
   "dependencies": {
     "babel-cli": "^6.26.0",
